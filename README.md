@@ -1,4 +1,4 @@
-hello !
-College Student
-INFORMATION TECHNOLOGY
+Heyy!
+Software Intern,
+Spring Boot
 mail:immeetu03@gmail.com
