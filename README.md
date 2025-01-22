@@ -1,4 +1,3 @@
-Heyy!
-Software Intern,
-Spring Boot
+Software Intern, 
+Spring Boot, 
 mail:immeetu03@gmail.com
